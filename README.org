@@ -1,2 +1,6 @@
 
 This is a Pandoc runner built with my customized version of Eisvogel template.
+
+Commits to this repository automatically trigger a build here:
+
+https://hub.docker.com/repository/docker/stephenvertex/pd-ubuntu-custom/
