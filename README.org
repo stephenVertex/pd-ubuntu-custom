@@ -1,6 +1,22 @@
+* Introduction
 
-This is a Pandoc runner built with my customized version of Eisvogel template.
+  This is a Pandoc runner built with my customized version of Eisvogel template.
 
-Commits to this repository automatically trigger a build here:
+  Commits to this repository automatically trigger a build here:
 
-https://hub.docker.com/repository/docker/stephenvertex/pd-ubuntu-custom/
+  https://hub.docker.com/repository/docker/stephenvertex/pd-ubuntu-custom/
+
+
+* Embedded LaTeX Template
+
+  See: https://github.com/stephenVertex/pandoc-latex-template
+
+  This is a modified version of [[https://github.com/Wandmalfarbe/pandoc-latex-template/][Eisvogel]] with some nice environment boxes.
+
+  
+* Includes
+
+  - [[https://github.com/DCsunset/pandoc-include][pandoc-include]] a pandoc filter to inject files into documents
+  - [[https://en.wikipedia.org/wiki/XeTeX][xelatex]]
+  - 
+    
